@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Introduction](#Introduction)
-- [Design](#Design)
 - [Features](#Features)
 - [Technologies](#Technologies)
 - [Setup](#Setup)
@@ -12,8 +11,6 @@
 ## Introduction
 
 Youtube clone that emulates some of the core functionalities of the popular video sharing platform
-
-## Design
 
 ## Features
 
@@ -30,4 +27,34 @@ A few things that you can do on youtube-clone:
 
 ## Setup
 
-## Credits
+Clone or download the repository:
+
+`git clone https://github.com/NathanielMention/youtube-clone`
+
+In the backend directory:
+
+First, install dependencies:
+
+```
+npm install
+```
+
+Finally, start the backend:
+
+```
+npm run dev
+```
+
+In the client directory:
+
+First, install dependencies:
+
+```
+npm install
+```
+
+Finally, start the frontend:
+
+```
+npm run dev
+```
